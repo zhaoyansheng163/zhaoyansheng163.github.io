@@ -4,12 +4,12 @@
 #   主要配置信息     #
 # ---------------- #
 baseurl: ""
-url: http://www.lingdongkuaichuan.com
+url: http://www.hao99.cn
 date_format: "ordinal"
-title: Mr.Zhou的博客
+title: Mr.Zhao的博客
 subtitle: "睡至三更时 凡功名皆成幻境<br />想到百年后 无少长俱是古人"
-description: "周博文的个人博客"
-keywords: 周博文, 软件开发工程师, 安卓移动端，前端
+description: "赵延生的个人博客"
+keywords: 赵延生, 软件开发工程师, 安卓移动端
 # 网站网址栏展示的图标
 favicon: /favicon.ico
 encoding: "utf-8"
@@ -18,13 +18,13 @@ side_bar_repo_limit: 5
 # ---------------- #
 #     作者信息      #
 # ---------------- #
-author: 周博文
+author: 赵延生
 # 公司名称 网站
-organization: 共济科技
-organization_url: http://www.xbrother.com
-github_username: zhoubowen-sky
+organization: hao99
+organization_url: http://www.hao99.cn
+github_username: zhaoyansheng163
 location: 深圳, 中国
-email: 1784225410@qq.com
+email: 35933019@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -73,4 +73,4 @@ collections:
         permalink: /wiki/:path/
 
 # 网页上的开源项目受欢迎程度的排行
-repository: zhoubowen-sky/zhoubowen-sky.github.io
+repository: zhaoyansheng163/zhaoyansheng163.github.io

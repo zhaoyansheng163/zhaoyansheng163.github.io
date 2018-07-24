@@ -1,10 +1,10 @@
-# Mr.Zhou
+# Mr.Zhao
 
-我的个人博客：<http://www.lingdongkuaichuan.com>，欢迎 Star 和 Fork。
+我的个人博客：<http://www.hao99.cn>，欢迎 Star 和 Fork。
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://blog.lingdongkuaichuan.com)**
+**[在线预览 &rarr;](http://www.hao99.cn)**
 
 <!--![screenshot home](http://www.lingdongkuaichuan.com/assets/images/screenshots/home.png)-->
 
