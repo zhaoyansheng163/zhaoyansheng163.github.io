@@ -7,7 +7,8 @@ keywords: netgear, R6300，mysql5
 ---
 
 1、先安装 optware
-参考SVN-- 路由器安装
+参考路由器R6300 SVN的安装
+
 2、安装mysql
 
 先更新
