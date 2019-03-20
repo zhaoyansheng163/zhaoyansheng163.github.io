@@ -96,12 +96,12 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: zhaoyansheng163
-    repo: blog-comments
-    oauth:
-        client_id: 1d77e991408012a46cc3
-        client_secret: 36c68a7e2399cc16516a91766597e54a3d046859
+#gitment:
+#    owner: zhaoyansheng163
+#    repo: blog-comments
+#    oauth:
+#        client_id: 1d77e991408012a46cc3
+#        client_secret: 36c68a7e2399cc16516a91766597e54a3d046859
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: zhaoyansheng163
