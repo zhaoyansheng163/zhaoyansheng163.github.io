@@ -10,7 +10,7 @@ permalink: /about/
 
 我是赵延生。
 
-一个Codding狂。
+一个IT爱好者和工作者，欢迎一起学习交流。
 
 
 ## 联系
