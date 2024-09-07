@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: ""
-url: https://zhaoyansheng163.github.io
+url: https://blog.hao99.cn
 date_format: "ordinal"
 title: 赵延生的个人博客
 subtitle: "不知道说些什么，先空着吧!"
@@ -19,7 +19,7 @@ side_bar_repo_limit: 5
 author: 赵延生
 # 公司名称 网站
 organization: hao99
-organization_url: https://zhaoyansheng163.github.io/
+organization_url: https://blog.hao99.cn/
 github_username: zhaoyansheng163
 location: 深圳, 中国
 email: 35933019@qq.com
@@ -83,7 +83,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: zhaoyansheng163/zhaoyansheng163.github.io
+repository: zhaoyansheng163/blog.hao99.cn
 
 # ---------------- #
 #      Comments    #
