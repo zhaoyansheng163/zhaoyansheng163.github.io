@@ -1,6 +1,6 @@
 # Mr.Zhao
 
-我的个人博客：<http://hao99.cn>，欢迎 Star 和 Fork。
+我的个人博客：<https://blog.hao99.cn>，欢迎 Star 和 Fork。
 
 * [效果预览](#效果预览)
 * [Fork 指南](#fork-指南)
@@ -9,7 +9,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://hao99.cn)**
+**[在线预览 &rarr;](https://blog.hao99.cn)**
 
 ## Fork 指南
 
