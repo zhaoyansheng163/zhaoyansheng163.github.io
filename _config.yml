@@ -106,8 +106,8 @@ disqus:
 gitalk:
     owner: zhaoyansheng163
     repo: blog-comments
-    clientID: 3e858aef9ac308fbc97c
-    clientSecret: 5816fbcb4111a26e2787402bbf9bf5b930c652a6
+    clientID: Ov23liMeG57tSdgr7PEN
+    clientSecret: b5d2c6eaa2f24e53f1ee2e523b9baa721b55cf90
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
