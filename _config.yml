@@ -83,7 +83,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: zhaoyansheng163/blog.hao99.cn
+repository: zhaoyansheng163/zhaoyansheng163.github.io
 
 # ---------------- #
 #      Comments    #
