@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: ""
-url: https://blog.hao99.cn/
+url: ""
 date_format: "ordinal"
 title: 赵延生的个人博客
 subtitle: "不知道说些什么，先空着吧!"
