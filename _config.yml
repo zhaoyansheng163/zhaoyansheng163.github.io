@@ -96,7 +96,7 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-#gitment:
+#gitment:3e858aef9ac308fbc97c
 #    owner: zhaoyansheng163
 #    repo: blog-comments
 #    oauth:
@@ -106,8 +106,8 @@ disqus:
 gitalk:
     owner: zhaoyansheng163
     repo: blog-comments
-    clientID: 1d77e991408012a46cc3
-    clientSecret: 36c68a7e2399cc16516a91766597e54a3d046859
+    clientID: 3e858aef9ac308fbc97c
+    clientSecret: 5816fbcb4111a26e2787402bbf9bf5b930c652a6
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
