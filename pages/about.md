@@ -20,6 +20,14 @@ Apache Eventmesh： https://github.com/apache/eventmesh/
 
 gitlab到gitea迁移工具： https://github.com/h44z/gitlab_to_gitea
 
+IOS作品：
+私家藏书： https://apps.apple.com/cn/app/%E4%B9%A6%E8%99%AB-%E5%9B%BE%E4%B9%A6%E6%95%B4%E7%90%86/id6670142604
+
+曾创办网站：AppInventer论坛  www.appinventor.com.cn  
+《人人都能开发安卓App：App Inventor 2应用开发实战》  书籍是我这个网站三位资深版主所写，其中一位是律师朋友。
+![](/images/posts/Blog/about-anninventor.png)
+
+感谢支持正版书籍：https://e.jd.com/30189868.html
 
 ## 联系
 
